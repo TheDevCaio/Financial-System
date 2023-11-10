@@ -52,3 +52,6 @@ Here are some tips for using Financial Management:
 Use descriptive names for your payments so you can easily find them later.
 Create budgets to help you track your spending.
 Track your savings goals to help you save money for the future.
+
+![DiagramDB](https://github.com/TheDevCaio/Financial-System/assets/110746976/966a20b9-0659-4f79-a02f-1e1c40438d34)
+
